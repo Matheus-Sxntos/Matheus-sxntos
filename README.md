@@ -1,7 +1,7 @@
 # 🧠 Matheus Santos
 
 **`Desenvolvedor Full-stack`**
-<div>
+<div align="center">
   <img
     align="right"
     src="anime-computer.gif"
