@@ -1,28 +1,32 @@
 # 🧠 Matheus Santos
 
 **`Desenvolvedor Full-stack`**
+
 <div align="center">
+  
   <img
     align="right"
+    alt="GIF"
+    width="27%"
     src="anime-computer.gif"
-    width="36%"
   />
-  <p align=left>
+  <p align="left">
     Olá, chamo-me Matheus Santos, tenho 22 anos e sou de São Paulo-SP. Atualmente, curso Técnico em Desenvolvimento de Sistemas no SENAC e, paralelamente, faço graduação em Análise de Desenvolvimento de Sistemas. Sou um dos apreciadores da tecnologia!!
   </p>
 </div>
 
 <br>
 <br>
+<br>
 
 <div align="center">  
   <img
-  width="54%" 
+  width="50%" 
   height="200px" 
   src="https://github-readme-stats.vercel.app/api?username=Matheus-sxntos&show_icons=true&count_private=true&hide_border=true&title_color=ff8903&icon_color=ffd000&text_color=c9d1d9&bg_color=0d1117&locale=pt-br"
   /> 
   <img
-  width="45%" 
+  width="40%" 
   height="200px" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-sxntos&layout=compact&hide_border=true&title_color=ff8903&text_color=c9d1d9&bg_color=0d1117&custom_title=Tecnologias"
   />
