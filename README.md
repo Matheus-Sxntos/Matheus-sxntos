@@ -6,7 +6,7 @@
     align="right"
     src="anime-computer.gif"
     width="36%"
-  >
+  />
   <p align=left>
     Olá, chamo-me Matheus Santos, tenho 22 anos e sou de São Paulo-SP. Atualmente, curso Técnico em Desenvolvimento de Sistemas no SENAC e, paralelamente, faço graduação em Análise de Desenvolvimento de Sistemas. Sou um dos apreciadores da tecnologia!!
   </p>
